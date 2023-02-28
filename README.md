@@ -28,6 +28,7 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
 
 Next, create a series of scatter plots. Be sure to include the linear regression line, the model's formula, and the r values as you can see in the following image
+
 <img width="536" alt="scatter" src="https://user-images.githubusercontent.com/114199979/221952619-219c7404-a926-4cb4-a3e4-86752fc6c4e5.png">
 
 
